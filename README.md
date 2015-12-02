@@ -6,10 +6,10 @@ Github landing page is a theme for [Hugo](http://gohugo.io) to create landing pa
 A demo can be find here [Swiftline](http://swiftline.github.io)
 
 # Screenshot
-![screenshot](https://raw.githubusercontent.com/swiftline/github-project-landing-page/master/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/oarrabi/github-project-landing-page/master/images/screenshot.png)
 
 # Costumization
-Check [config.toml](https://github.com/swiftline/github-project-landing-page/blob/master/config.toml) for available configuration. 
+Check [config.toml](https://github.com/oarrabi/github-project-landing-page/blob/master/exampleSite/config.toml) for available configuration. 
 Below is a description for each of them.
 
 Project description appears after project name
