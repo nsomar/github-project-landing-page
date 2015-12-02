@@ -1,0 +1,17 @@
+name = "Github project Page"
+license = "MIT"
+licenselink = "https://github.com/swiftline/github-project-landing-page/blob/master/LICENSE.md"
+description = "An easy to use landing page theme for github hosted project."
+homepage = "https://github.com/swiftline/github-project-landing-page"
+tags = ["company", "products", "landing page", "opensource"]
+features = ["github", "images" ]
+min_version= 0.1
+
+[author]
+     name = "Omar Abdelhafith"
+
+[original]
+    author =  "Omar Abdelhafith"
+    homepage = "https://github.com/swiftline/github-project-landing-page"
+    repo = "https://github.com/swiftline/github-project-landing-page"
+
