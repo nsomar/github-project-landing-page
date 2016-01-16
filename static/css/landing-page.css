@@ -199,7 +199,7 @@ p.copyright {
     height: 100%;
     min-height: 380px;
     margin-top: 20px;
-    background: url(../img/intro-bg.svg) no-repeat center center;
+    background: no-repeat center center;
     background-size: 280px;
 }
 
