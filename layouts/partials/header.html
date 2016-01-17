@@ -14,7 +14,8 @@
 					{{ $org := .Site.Params.GithubOrg }}
 					{{ $repo := .Site.Params.GithubRepo }}
 
-					<iframe class="github-btn" src="https://ghbtns.com/github-btn.html?user={{ $org }}&repo={{ $repo  }}&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+					<iframe class="github-btn" src="https://ghbtns.com/github-btn.html?user={{ $org }}&repo={{ $repo }}&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+                    <iframe class="github-btn" src="https://ghbtns.com/github-btn.html?user={{ $org }}&repo={{ $repo }}&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 					{{ end }}
 
 					<hr class="intro-divider">
