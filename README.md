@@ -18,6 +18,7 @@ Project description appears after project name
 ```
 
 `author_url` a link of the project author.
+`author_name` the author's name, used in the link to the author's page.
 `project_url` link to project url
 `project_documentation` link to project documentation
 
