@@ -1,14 +1,13 @@
-baseurl = "http://swiftline.github.io"
+baseurl = "www.x314.network"
 languageCode = "en-us"
 title = "Swiftline"
 
 [params]
-    description = "Amazing project."
-    author_url = "http://nsomar.com"
-    project_url = "http://github.com/swiftline/swiftline"
-    project_documentation = "http://swiftline.github.io/docs"
-    github_project_name = "swiftline"
-    github_user_name = "swiftline"
+    description = "Universal Crypto Income"
+    author_url = "http://www.x314.network"
+    project_url = "http://www.x314.network/members/join"
+    project_documentation = "http://www.x314.network/docs"
+    github_user_name = "x314network"
 
     first_color="#f8f8f8"
     first_border_color="#e7e7e7"
