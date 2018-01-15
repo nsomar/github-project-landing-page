@@ -5,6 +5,7 @@ title = "Swiftline"
 [params]
     description = "Amazing project."
     author_url = "http://nsomar.com"
+    author_name = "NSOmar"
     project_url = "http://github.com/swiftline/swiftline"
     project_documentation = "http://swiftline.github.io/docs"
     github_project_name = "swiftline"
