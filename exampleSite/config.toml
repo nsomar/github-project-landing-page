@@ -9,6 +9,7 @@ title = "Swiftline"
     project_documentation = "http://swiftline.github.io/docs"
     github_project_name = "swiftline"
     github_user_name = "swiftline"
+    logo = "/img/intro-bg.svg"
 
     first_color="#f8f8f8"
     first_border_color="#e7e7e7"

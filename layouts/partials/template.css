@@ -34,3 +34,12 @@ body {
 .header-container h4 {
   color: {{ .Site.Params.header_text_color }};
 }
+
+/* landing page logo */
+.intro-image {
+    height: 100%;
+    min-height: 380px;
+    margin-top: 20px;
+    background: url({{ .Site.Params.logo }}) no-repeat center center;
+    background-size: 280px;
+}
